@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hey I'm Alex<br> I just started my journy with web development following the <a href="https://github.com/HackYourFuture"><strong>HackYourFuture</strong></a> program</h2>
+<h2 align="center">Hey I'm Alex<br> I just started my journy with web development<br>following the <a href="https://github.com/HackYourFuture"><strong>HackYourFuture</strong></a> program</h2>
 
  ---
   
