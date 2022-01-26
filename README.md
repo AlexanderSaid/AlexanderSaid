@@ -36,12 +36,16 @@ Here are some ideas to get you started:
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoWidth=20">
 </p><br>
 <p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-3c873a?style=flat-square&logo=Node.js&logoColor=white&logoWidth=20e">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-3c873a?style=flat-square&logo=Node.js&logoColor=white&logoWidth=20">
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoWidth=20">
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-99415B?style=flat-square&logo=jest&logoWidth=20">
 </p>
 <br>
-
+<p align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&logoWidth=30">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&logoWidth=20">
+</p>
+<br>
 ---
 
 <h2 align="center">Interested in</h2>
