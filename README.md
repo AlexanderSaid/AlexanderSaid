@@ -25,25 +25,29 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoWidth=20">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-6e5494?style=flat-square&logo=github&logoWidth=20">
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoWidth=20">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FFFAFA?style=flat-square&logo=postman&logoWidth=20">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoWidth=20">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-6e5494?style=for-the-badge&logo=github&logoWidth=20">
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoWidth=20">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FFFAFA?style=for-the-badge&logo=postman&logoWidth=20">
 </p><br>
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white&logoWidth=20">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoWidth=20">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoWidth=20">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoWidth=20">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoWidth=20">
 </p><br>
 <p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-3c873a?style=flat-square&logo=Node.js&logoColor=white&logoWidth=20">
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoWidth=20">
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-99415B?style=flat-square&logo=jest&logoWidth=20">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-3c873a?style=for-the-badge&logo=Node.js&logoColor=white&logoWidth=20">
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoWidth=20">
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-99415B?style=for-the-badge&logo=jest&logoWidth=20">
 </p>
 <br>
 <p align="center">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&logoWidth=30">
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&logoWidth=20">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=30">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&logoWidth=20">
+</p>
+<br>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-fefefe?style=for-the-badge&logo=React&logoColor=61DAFB&logoWidth=20">
 </p>
 <br>
 
