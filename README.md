@@ -15,47 +15,52 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hey I'm Alex<br> I just started my journy with web development<br>following the <a href="https://github.com/HackYourFuture"><strong>HackYourFuture</strong></a> program</h2>
+<h2 align="center">Hey I'm Alex<br> I'm on a journy of discovering web development.<br>Just finished following the <a href="https://github.com/HackYourFuture"><strong>HackYourFuture</strong></a> program</h2>
+<br>
 
- ---
   
-<h2 align="center">Learning</h2>
+<h2 align="center">Learned About</h2>
 
----
 
 <br>
 <p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoWidth=20">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-6e5494?style=for-the-badge&logo=github&logoWidth=20">
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoWidth=20">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FFFAFA?style=for-the-badge&logo=postman&logoWidth=20">
-</p><br>
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoWidth=20">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoWidth=20">&nbsp;
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-6e5494?style=for-the-badge&logo=github&logoWidth=20">&nbsp;
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoWidth=20">&nbsp;
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FFFAFA?style=for-the-badge&logo=postman&logoWidth=20">&nbsp;
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20">&nbsp;
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoWidth=20">&nbsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoWidth=20">
 </p><br>
 <p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-3c873a?style=for-the-badge&logo=Node.js&logoColor=white&logoWidth=20">
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoWidth=20">
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-99415B?style=for-the-badge&logo=jest&logoWidth=20">
-</p>
-<br>
-<p align="center">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=30">
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&logoWidth=20">
-</p>
-<br>
-<p align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-3c873a?style=for-the-badge&logo=Node.js&logoColor=white&logoWidth=20">&nbsp;
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoWidth=20">&nbsp;
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-99415B?style=for-the-badge&logo=jest&logoWidth=20">&nbsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=30">&nbsp;
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&logoWidth=20">&nbsp;
   <img alt="React" src="https://img.shields.io/badge/-React-fefefe?style=for-the-badge&logo=React&logoColor=61DAFB&logoWidth=20">
 </p>
 <br>
 
----
+
+
+<h2 align="center">Learning Next</h2>
+
+
+
+<br>
+<p align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&logoWidth=20">&nbsp;
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&logoWidth=20">&nbsp;
+</p>
+<br>
+
+
+
 
 <h2 align="center">Interested in</h2>
 
----
+
 
 <br>
 <p align="center">
