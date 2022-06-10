@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&logoWidth=20">&nbsp;
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&logoWidth=20">&nbsp;
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white&logoWidth=20">&nbsp;
 </p>
 <br>
 
