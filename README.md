@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <h2 align="center">Hey I'm Alex<br> I'm on a journy of discovering web development.<br>Just finished following the <a href="https://github.com/HackYourFuture"><strong>HackYourFuture</strong></a> program</h2>
 <br>
 
@@ -70,3 +70,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/AlexanderSaid" target="_blank"><img alt="Photography" src="https://img.shields.io/badge/-Photography-61829D.svg?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSI+PC9wYXRoPjxwYXRoIGQ9Ik05LjgyNyAyMS43NjMgMTQuMzEgMTRsMy41MzIgNi4xMTdBOS45NTUgOS45NTUgMCAwIDEgMTIgMjJjLS43NDYgMC0xLjQ3My0uMDgyLTIuMTczLS4yMzd6TTcuODkgMjEuMTJBMTAuMDI4IDEwLjAyOCAwIDAgMSAyLjQ1OCAxNWg4Ljk2NUw3Ljg5IDIxLjExOXpNMi4wNSAxM2E5Ljk2NCA5Ljk2NCAwIDAgMSAyLjU4My03Ljc2MUw5LjExMiAxM0gyLjA1em00LjEwOS05LjExN0E5Ljk1NSA5Ljk1NSAwIDAgMSAxMiAyYy43NDYgMCAxLjQ3My4wODIgMi4xNzMuMjM3TDkuNjkgMTAgNi4xNTkgMy44ODN6TTE2LjExIDIuODhBMTAuMDI4IDEwLjAyOCAwIDAgMSAyMS41NDIgOWgtOC45NjVsMy41MzMtNi4xMTl6TTIxLjk1IDExYTkuOTY0IDkuOTY0IDAgMCAxLTIuNTgzIDcuNzYxTDE0Ljg4OCAxMWg3LjA2NHoiIGZpbGw9IiNmZmZmZmYiIGNsYXNzPSJmaWxsLTAwMDAwMCI+PC9wYXRoPjwvc3ZnPg==&style=for-the-badge"></a>
   <a href="https://myanimelist.net/profile/AlexanderSa" target="_blank"><img alt="Anime" src="https://img.shields.io/badge/-Anime-2E51A2?logo=MyAnimeList&style=for-the-badge"></a>
 </p>
+-->
